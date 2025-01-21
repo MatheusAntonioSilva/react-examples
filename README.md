@@ -1,4 +1,5 @@
-## react-examples
+## Alguns projetos em React
+
 Monorepo - Exemplos de aplicações front-end construídas com React
 
 ---
